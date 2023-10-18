@@ -27,7 +27,7 @@ const { isDarkTheme } = toRefs(styleStore);
       href="https://twitter.com/ittoolsdottech"
       rel="noopener"
       target="_blank"
-      aria-label="IT Tools' Twitter account"
+      aria-label="DEV Tools' Twitter account"
     >
       <n-icon size="25" :component="BrandTwitter" />
     </c-button>

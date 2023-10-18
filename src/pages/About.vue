@@ -2,7 +2,7 @@
 import { useHead } from '@vueuse/head';
 import { useTracker } from '@/modules/tracker/tracker.services';
 
-useHead({ title: 'About - IT Tools' });
+useHead({ title: 'About - DEV Tools' });
 const { tracker } = useTracker();
 </script>
 
@@ -18,7 +18,7 @@ const { tracker } = useTracker();
       it to people you think may find it useful too and don't forget to bookmark it in your shortcut bar!
     </p>
     <p text-justify>
-      IT Tools is open-source (under the MIT license) and free, and will always be, but it costs me money to host and
+      DEV Tools is open-source (under the MIT license) and free, and will always be, but it costs me money to host and
       renew the domain name. If you want to support my work, and encourage me to add more tools, please consider
       supporting by
       <c-link
@@ -33,7 +33,7 @@ const { tracker } = useTracker();
 
     <h2>Technologies</h2>
     <p text-justify>
-      IT Tools is made in Vue.js (Vue 3) with the the Naive UI component library and is hosted and continuously deployed
+      DEV Tools is made in Vue.js (Vue 3) with the the Naive UI component library and is hosted and continuously deployed
       by Vercel. Third-party open-source libraries are used in some tools, you may find the complete list in the
       <c-link href="https://github.com/CorentinTh/it-tools/blob/main/package.json" rel="noopener" target="_blank">
         package.json
