@@ -30,6 +30,8 @@ about:
   h1p1: 'This wonderful website, made with ❤ by'
   h1p2: ", aggregates useful tools for developer and people working in IT. If you find it useful, please feel free to share it to people you think may find it useful too and don''t forget to bookmark it in your shortcut bar!"
   h1p3: 'Dev Tools is open-source (under the MIT license) and free, and will always be, but it costs me money to host and renew the domain name. If you want to support my work, and encourage me to add more tools, please consider supporting by'
+  h1p2: ", aggregates useful tools for developer and people working in IT. If you find it useful, please feel free to share it to people you think may find it useful too and don''t forget to bookmark it in your shortcut bar!"
+  h1p3: 'IT Tools is open-source (under the MIT license) and free, and will always be, but it costs me money to host and renew the domain name. If you want to support my work, and encourage me to add more tools, please consider supporting by'
   h1p4: 'sponsoring me'
   h2: Technologies
   h2p1: 'Dev Tools is made in Vue.js (Vue 3) with the the Naive UI component library and is hosted and continuously deployed by Vercel. Third-party open-source libraries are used in some tools, you may find the complete list in the'
@@ -48,3 +50,19 @@ about:
   backHome: 'Back home'
 toolCard:
   new: New
+
+search:
+  label: Search
+tools:
+  categories:
+    favorite-tools: 'Your favorite tools'
+    crypto: Crypto
+    converter: Converter
+    web: Web
+    images and videos: 'Images & Videos'
+    development: Development
+    network: Network
+    math: Math
+    measurement: Measurement
+    text: Text
+    data: Data
